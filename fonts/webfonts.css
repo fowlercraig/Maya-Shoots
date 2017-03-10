@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Monospace';
+    src: url('monospacetypewriter-webfont.eot');
+    src: url('monospacetypewriter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('monospacetypewriter-webfont.woff') format('woff'),
+         url('monospacetypewriter-webfont.ttf') format('truetype'),
+         url('monospacetypewriter-webfont.svg#monospacetypewriterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Trade Gothic W01 Cn 18';
+    src: url('tradegothicltstd-cn18.eot');
+    src: url('tradegothicltstd-cn18.eot') format('embedded-opentype'),
+         url('tradegothicltstd-cn18.woff') format('woff'),
+         url('tradegothicltstd-cn18.ttf') format('truetype'),
+         url('tradegothicltstd-cn18.svg#TradeGothicLTStdCondensedNo.18') format('svg');
+}
+
+@font-face {
+    font-family: 'Trade Gothic Bold';
+    src: url('tradegothicltstd-bdcn20.eot');
+    src: url('tradegothicltstd-bdcn20.eot') format('embedded-opentype'),
+         url('tradegothicltstd-bdcn20.woff') format('woff'),
+         url('tradegothicltstd-bdcn20.ttf') format('truetype'),
+         url('tradegothicltstd-bdcn20.svg#TradeGothicLTStdBoldCondensedNo.20') format('svg');
+}
